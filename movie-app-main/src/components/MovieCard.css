@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* src/components/MovieCard.css */
+  .movie-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    display: inline-block;
+    width: 200px;
+  }
+  
+  .movie-card img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
